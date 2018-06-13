@@ -20,7 +20,8 @@
   },
   "dependencies": {
     "decompress": "^4.1.0",
-    "execa": "^0.6.3"
+    "execa": "^0.6.3",
+    "uuid": "^3.2.1"
   },
   "scripts": {
     "build": "node build.js",
