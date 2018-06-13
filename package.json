@@ -1,7 +1,7 @@
 {
   "name": "@beenotung/gif-to-apng",
   "description": "Convert a gif to apng, gif2apng packaged for node",
-  "version": "0.1.3",
+  "version": "0.2.0",
   "author": "Albin Ekblom (https://www.npmjs.com/~albinekb)",
   "contributors": [
     "Beeno Tung <aabbcc1241@yahoo.com.hk> (https://beeno-tung.surge.sh/)"
